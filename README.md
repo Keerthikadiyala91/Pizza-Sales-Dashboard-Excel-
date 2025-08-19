@@ -1,5 +1,5 @@
 # Pizza Sales Dashboard (Excel)
-![Dashboard](./dashboard.png)
+![Dashboard](./dashboard.jpg)
 
 This Excel-based dashboard project was created to analyze pizza sales data and extract key business insights. It demonstrates how Excel can be used as a powerful BI tool to drive data-informed decision-making.
 
@@ -40,4 +40,5 @@ Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting)
 For more projects and updates, feel free to visit my profiles:
 
 - GitHub: [Keerthi's GitHub Profile](https://github.com/Keerthikadiyala91)  
+
 - LinkedIn: [Keerthi's LinkedIn Profile](https://www.linkedin.com/in/keerthi-k-47868154/)
